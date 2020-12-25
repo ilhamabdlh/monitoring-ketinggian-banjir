@@ -1,3 +1,6 @@
+### For Demos https://skripsi-prototipe.netlify.app/
+
+
 # MajesticAdmin-Free-Bootstrap-Admin-Template
 
 Majestic Admin is a simple yet powerful free Bootstrap admin template that is built with the Bootstrap framework, SASS, jQuery, HTML5, and CSS. The spectacular design, user friendliness, and easy to customizability of Majestic Admin makes it suitable for building different types of admin websites. This well documented template has high responsiveness to make websites look great on both desktop and mobile devices.
